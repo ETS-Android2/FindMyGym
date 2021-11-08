@@ -1,13 +1,7 @@
-# FindMyGym [![Build Status](https://app.travis-ci.com/519045752/awesome.svg?branch=master)](https://app.travis-ci.com/519045752/awesome)
+# FindMyGym 
 
 ## _Comp5216 Group Project_
-
-
-## New Features
-- blahblah
-
-
-
+The purpose of this application is to display transparent gym information to users. The users may search and filter gym on the map and view gym information. Booking for gym session and personal trainer is also added.
 
 ## Workload
 | Module | Name |
@@ -20,15 +14,11 @@
 
 
 ## Comment
-> blahblah
-
-
-
-## Docs
-- [Android Developer Guides](https://developer.android.com/guide) - HTML enhanced for web apps!
+I took care of Map functionality which is mainly front-end works. The map functionality includes intregating google map API, displaying and filtering custom markers, search by gym name and move camera to destination. 
 
 
 
 
-## License
-MIT
+## Copyrights
+Univiersity of Sydney COMP5126 teaching team
+FindMyGym developing team
